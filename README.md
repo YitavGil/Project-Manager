@@ -13,7 +13,7 @@ This project is a RESTful API for a task management system, built with Node.js, 
 - AWS Cognito for authentication
 - Microsoft SQL Server Express 2022
 
-## Backend Technologies Used
+## Frontend Technologies Used
 - React
 - TypeScript
 - Axios

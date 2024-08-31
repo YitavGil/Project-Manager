@@ -94,6 +94,11 @@ This project is a RESTful API for a task management system, built with Node.js, 
    npm start
    ```
 
+   6. Start the client:
+   ```
+   npm run dev
+   ```
+
 ## API Endpoints
 
 - POST /api/auth/signup - Register a new user
